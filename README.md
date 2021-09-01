@@ -1,3 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/edamrat74duq4bvr?svg=true)](https://ci.appveyor.com/project/Niksel00/ahj-dom-1-lmt3r)
+[![Build status](https://ci.appveyor.com/api/projects/status/6ty008i575m33kyb?svg=true)](https://ci.appveyor.com/project/Niksel00/ahj-events-1)
 
 [GitHub Pages](https://niksel00.github.io/ahj-events-1/)
