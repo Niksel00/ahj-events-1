@@ -4,7 +4,7 @@ body {
 
 .goblin {
     width: 520px;
-    cursor: pointer; 
+    cursor: url('../img/hammer.png'), pointer; 
 }
 
 .goblin .results {
